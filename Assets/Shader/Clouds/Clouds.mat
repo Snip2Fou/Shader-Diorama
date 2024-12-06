@@ -109,6 +109,7 @@ Material:
     - _CloudsScale: 120
     - _Cull: 2
     - _Cutoff: 0.5
+    - _DayNightSpeed: 0.3
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DistortScale: 60
